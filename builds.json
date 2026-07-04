@@ -1,6 +1,26 @@
 {
   "builds": [
     {
+      "id": "6.21",
+      "title": "Season 6 (Chapter 1)",
+      "chapter": 1,
+      "season": 6,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 106071018,
+      "sha256": "2ac5f8c1dae80fbe34ac5d8527f220247e24658664f324e2c28ba89733d292d0",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/6.21/6.21.apk"
+    },
+    {
+      "id": "6.31",
+      "title": "Season 6 (Chapter 1)",
+      "chapter": 1,
+      "season": 6,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 108512703,
+      "sha256": "014f24946c2f31b45e6fce26a04cf6804944bdcdf7e467e17aeb390f2def13a1",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/6.31/6.31.apk"
+    },
+    {
       "id": "7.40",
       "title": "Season 7 (Chapter 1)",
       "chapter": 1,
@@ -9,6 +29,66 @@
       "sizeBytes": 110433888,
       "sha256": "9debc81ec2296cc3d12bfac2c36142d39c1e27fe581dc87771c623da10d2869d",
       "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/7.40/7.40.apk"
+    },
+    {
+      "id": "8.51",
+      "title": "Season 8 (Chapter 1)",
+      "chapter": 1,
+      "season": 8,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 124942043,
+      "sha256": "c20e8318f53f587a13cf3b6f64cab2ceb7bd0b944e0d2dca35a7ff8b6bb9bf20",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/8.51/8.51.apk"
+    },
+    {
+      "id": "9.10",
+      "title": "Season 9 (Chapter 1)",
+      "chapter": 1,
+      "season": 9,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 105350875,
+      "sha256": "d2045d6c7038882fc06cc7cb3f5e935abfb037a5338afb9ac42c95a6f8e54925",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/9.10/9.10.apk"
+    },
+    {
+      "id": "9.21",
+      "title": "Season 9 (Chapter 1)",
+      "chapter": 1,
+      "season": 9,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 105365566,
+      "sha256": "f9521b4e8acc814516a31164c8bad1fa3805a9856ae20a046fb69377f822c967",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/9.21/9.21.apk"
+    },
+    {
+      "id": "9.41",
+      "title": "Season 9 (Chapter 1)",
+      "chapter": 1,
+      "season": 9,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 109446948,
+      "sha256": "a9e68a84b4117653ebef3734007478d34bbfdec1105ae6adabe8895654cd403d",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/9.41/9.41.apk"
+    },
+    {
+      "id": "10.00",
+      "title": "Season X (Chapter 1)",
+      "chapter": 1,
+      "season": 10,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 110237625,
+      "sha256": "c66e0486fd2556767818e912503035d1c6cdad1d8ce6a6e40fae779d79880638",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/10.00/10.00.apk"
+    },
+    {
+      "id": "10.31",
+      "title": "Season X (Chapter 1)",
+      "chapter": 1,
+      "season": 10,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 141033601,
+      "sha256": "958729a1eacb345abb1b59310fc38b24d4b49b2560320d0cb5bbf6f6cfa6e947",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/10.31/10.31.apk"
     }
   ]
 }
