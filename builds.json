@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "id": "7.40",
+      "title": "Season 7 (Chapter 1)",
+      "chapter": 1,
+      "season": 7,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 110433888,
+      "sha256": "9debc81ec2296cc3d12bfac2c36142d39c1e27fe581dc87771c623da10d2869d",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/7.40/7.40.apk"
+    }
+  ]
+}
