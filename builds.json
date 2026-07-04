@@ -89,6 +89,56 @@
       "sizeBytes": 141033601,
       "sha256": "958729a1eacb345abb1b59310fc38b24d4b49b2560320d0cb5bbf6f6cfa6e947",
       "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/10.31/10.31.apk"
+    },
+    {
+      "id": "10.40",
+      "title": "Season X (Chapter 1)",
+      "chapter": 1,
+      "season": 10,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 141017217,
+      "sha256": "74fb7ca86c966d78c517050244644103c5cfbc546b3158fbf69e680826ce205f",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/10.40/10.40.apk"
+    },
+    {
+      "id": "11.31",
+      "title": "Chapter 2 Season 1",
+      "chapter": 2,
+      "season": 1,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 156618982,
+      "sha256": "e04042c14584c6320affd9b1fd6af32fb36f7fa2425fa6633f8934aafcb40489",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/11.31/11.31.apk"
+    },
+    {
+      "id": "12.41",
+      "title": "Chapter 2 Season 2",
+      "chapter": 2,
+      "season": 2,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 155728537,
+      "sha256": "63aacdaefd184ff6c69af4da95254e1fd15b6acf91d255d952ae91bc324566ad",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/12.41/12.41.apk"
+    },
+    {
+      "id": "12.61",
+      "title": "Chapter 2 Season 2",
+      "chapter": 2,
+      "season": 2,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 157014681,
+      "sha256": "cef07e88a95c7a930d08b5558c71b0afdc84e616efc973f74dcfff36ff219563",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/12.61/12.61.apk"
+    },
+    {
+      "id": "13.40",
+      "title": "Chapter 2 Season 3",
+      "chapter": 2,
+      "season": 3,
+      "packageName": "com.epicgames.fortnite",
+      "sizeBytes": 174681579,
+      "sha256": "515551ae8bd23b4da06335a7192c43a8462facda89008095545b8ab708533992",
+      "downloadUrl": "https://github.com/FnN-Group/FortByte-Patched-Builds/releases/download/13.40/13.40.apk"
     }
   ]
 }
