@@ -16,9 +16,12 @@ shows you the versions, and pulls the one you pick straight from this repo's
 - **Releases** — one release per version (tag = build id, e.g. `7.40`), with the APK attached as `<id>.apk`. APKs live in releases because they're >100 MB — GitHub caps repo files at 100 MB but allows up to 2 GB per release asset.
 
 ## How you actually use it
-1. Install the **FortByte app**.
+1. Install the **FortByte app** (soon).
 2. In Settings, point it at your backend (IP\:port).
 3. Pick a version → **Download** → **Install** → launch. Done.
+
+### About teh FortByte app
+Soon / later
 
 > These builds are Android-debug-signed, so they can't install *over* a store
 > copy of Fortnite (signature mismatch) — uninstall that first. The FortByte app
